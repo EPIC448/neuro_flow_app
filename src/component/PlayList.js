@@ -17,7 +17,7 @@ class PlayList extends React.Component {
      
     handleClick(event) {
         
-    //     e.preventDefault();
+        // event.preventDefault();
     //     // console.log(e.dispatchConfig)
     //     //   debugger
     //     console.log(e)
@@ -67,7 +67,7 @@ validate(values) {
             
                             <ReadMoreReact text={data.description} min={70} ideal={95}
                                 max={200}
-                                readMoreText={"Click here to Read More "}/>
+                                readMoreText={"....Click here to Read More.... "}/>
                         </li>
 
                      ))
