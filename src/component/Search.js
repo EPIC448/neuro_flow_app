@@ -12,9 +12,6 @@ class Search extends React.Component {
         search: " ",
      
     };
-    
-    
-  
 
     onChange = e =>{
         this.setState({ search: e.target.value });
@@ -52,11 +49,10 @@ class Search extends React.Component {
                      
                             <ReadMoreReact text={typedCategory.description} min={70} ideal={95}
                                 max={200}
-                                readMoreText={"Click here to Read More "}/>
+                                readMoreText={"....READ MORE.... "}/>
                           
 
                         </React.Fragment>
-
 
 
                     ))}

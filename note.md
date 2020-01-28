@@ -17,4 +17,6 @@
       
       Notes. IN regards to the MP3 audio
       For MP3. find the Bad links, look at the URL and see why it is a bad MP3. then use that as a filter. 
-        Becuase you have a Formate does not mean the URL is Valid or invalid.  
+        Becuase you have a Formate does not mean the URL is Valid or invalid.
+
+        Left to Compete. Target the Bad URL, that returns an error.  
