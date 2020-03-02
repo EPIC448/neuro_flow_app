@@ -20,3 +20,5 @@
         Becuase you have a Formate does not mean the URL is Valid or invalid.
 
         Left to Compete. Target the Bad URL, that returns an error.  
+
+        Want to add a CSS folder to the project.
