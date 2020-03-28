@@ -12,5 +12,7 @@
 
      Click on more to see the compete description. 
      
-
+............... Completed... Couple of this I want add to this Project. 
+  Finish out the If the Link is a bad link. Add Features to it. 
+  Lay out the Face of Project.... And Draw out what i want it to look like. 
 
